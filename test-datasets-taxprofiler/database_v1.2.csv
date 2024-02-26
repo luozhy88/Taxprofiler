@@ -1,0 +1,11 @@
+tool,db_name,db_params,db_path
+malt,malt85,-id 85,/data2/zhiyu/software/taxprofiler/test-datasets-taxprofiler/data/database/malt/testdb-malt.tar.gz
+malt,malt95,-id 90,/data2/zhiyu/software/taxprofiler/test-datasets-taxprofiler/data/database/malt/testdb-malt.tar.gz
+bracken,db1,,/data2/zhiyu/software/taxprofiler/test-datasets-taxprofiler/data/database/bracken/testdb-bracken.tar.gz
+kraken2,db2,--quick,/data/changrong/save_220T_user/changrong/databases_nfcore-taxprofilers_nfcore-mag/Kraken2_database/k2_standard_20230605
+centrifuge,db3,,/data/changrong/save_220T_user/changrong/databases_nfcore-taxprofilers_nfcore-mag/Centrifuge_database/p_compressed_2018_4_15.tar.gz
+kaiju,db5,,/data/changrong/save_220T_user/changrong/databases_nfcore-taxprofilers_nfcore-mag/Kaiju_database/kaiju_db_refseq_2021-02-26
+diamond,db1,,/data/changrong/save_220T_user/changrong/databases_nfcore-taxprofilers_nfcore-mag/diamond_database/ncbi-bacteria-nr-protein-20230516-db-diamond.dmnd
+ganon,db1,,/data2/zhiyu/software/taxprofiler/test-datasets-taxprofiler/data/database/ganon/test-db-ganon.tar.gz
+metaphlan,metaphlan4,,/data2/zhiyu/software/taxprofiler/test-datasets-taxprofiler/modules/data/delete_me/myself/metaphlan4_database
+kmcp,db1,,/data2/zhiyu/software/taxprofiler/test-datasets-taxprofiler/data/database/kmcp/test-db-kmcp.tar.gz
